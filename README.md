@@ -75,7 +75,7 @@
 
 ### How to store List of Articles in Repository layer
  - set up a globle variable
- - first request must be `localhost.8080/article`, so `this.temp` can be initialized with all dummy Articles, even multiple `localhost.8080/article` being sent, no duplicated Article will be created.
+ - the first request must be `localhost.8080/article`, so `this.temp` can be initialized with all dummy Articles, even multiple `localhost.8080/article` being sent, no duplicated Article will be created.
  - `localhost.8080/article/{id}` can be used after initializing the List.
  ![Snipaste_2024-03-03_16-23-10](https://github.com/Liu-Chen-CS/backend-challenge/assets/158779475/5f1740a4-10b4-45e1-ad54-b99af1d60cd9)
 
