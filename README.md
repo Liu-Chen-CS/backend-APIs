@@ -45,8 +45,10 @@
   4. loop through HashSet, for each ArticleBlock type instance, I will create an ArticleBlockDto to store sortIndex.
   5. add `ArticleBlockDto` to the List
   6. when finishing iterating `HashSet`, sort `ArrayList <ArticleBlockDto>`.
-  7. then add `ArrayList <ArticleBlockDto>` to blocks.
-  8. One `ArticleDto` has just been initialized.
+     - The `subtraction` to compare two numerical value might lead to incorrect result, therefore it's better to use compareTo(), [more info on StackOverflow]( https://stackoverflow.com/questions/2728793/java-integer-compareto-why-use-comparison-vs-subtraction)
+   
+  8. then add `ArrayList <ArticleBlockDto>` to blocks.
+  9. One `ArticleDto` has just been initialized.
  
 ![Untitled Diagram drawio](https://github.com/Liu-Chen-CS/backend-challenge/assets/158779475/1d28f6b0-1bf1-4cfb-b3d7-663bebb016db)
 
