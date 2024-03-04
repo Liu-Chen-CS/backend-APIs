@@ -98,10 +98,6 @@ public class ArticleRepository {
         return result;
     }
 
-/**
- *  if imageId were mistakenly set to the same and setLastModified remain unchanged
- *  as result, there will be duplicated image with all identical attributes
- */
     private Image createImage(Long imageId){
         final Image result = new Image();
         result.setId(imageId);
