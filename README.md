@@ -13,7 +13,10 @@
  - To know
    - This project didn't use any databases, all dummy articles were created in `Repository` layer.
    - As there are no databases, its better for users to call `localhost:8080/article` to first initialize a list of `Articles` than calling `localhost:8080/article/{id}` directly, which will never have any Articles initialized --> Its not a problem in real projects.
-       - [more details](#how-to-store-list-of-articles-in-repository-layer) 
+       - [more details](#how-to-store-list-of-articles-in-repository-layer)
+    
+
+![javaWeb drawio](https://github.com/Liu-Chen-CS/backendChallenge-LiuChen/assets/158779475/5a9e5aec-eaa9-490e-ac40-4d16d6b7ed75)
 
 ![Snipaste_2024-03-03_11-11-54](https://github.com/Liu-Chen-CS/mapping-java/assets/158779475/61ae2325-229b-4cc0-a461-fb39d7968082)
 
