@@ -16,7 +16,7 @@
        - [more details](#how-to-store-list-of-articles-in-repository-layer)
     
 
-![javaWeb drawio](https://github.com/Liu-Chen-CS/backendChallenge-LiuChen/assets/158779475/5a9e5aec-eaa9-490e-ac40-4d16d6b7ed75)
+![javaWeb drawio (1)](https://github.com/Liu-Chen-CS/backendChallenge-LiuChen/assets/158779475/8a58e331-6644-4387-b424-83934e439d4b)
 
 ![Snipaste_2024-03-03_11-11-54](https://github.com/Liu-Chen-CS/mapping-java/assets/158779475/61ae2325-229b-4cc0-a461-fb39d7968082)
 
