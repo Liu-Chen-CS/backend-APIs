@@ -1,4 +1,4 @@
-# Backend Mapping Challenge
+# Backend Mapping
 
 ### I used:
 - Java 21
