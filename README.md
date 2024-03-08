@@ -20,6 +20,7 @@
 
 ![Snipaste_2024-03-03_11-11-54](https://github.com/Liu-Chen-CS/mapping-java/assets/158779475/61ae2325-229b-4cc0-a461-fb39d7968082)
 
+![MySQL drawio (1)](https://github.com/Liu-Chen-CS/backendChallenge-LiuChen/assets/158779475/f033bc78-9eaf-44ce-a7f4-24f8ba70859d)
 
 
 ### Article Structure
