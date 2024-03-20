@@ -24,7 +24,8 @@
 
 
 ### Article Structure
-![Snipaste_2024-03-03_11-48-47](https://github.com/Liu-Chen-CS/mapping-java/assets/158779475/bf6ba3a6-6355-472d-bbdd-0e7066cc6495)
+![articleBlock drawio](https://github.com/Liu-Chen-CS/backendChallenge-LiuChen/assets/158779475/277dadda-19c3-4091-8486-0726f461fd3f)
+
  - As `Article` extends `DBEntity`, Article then inherits all `attributes` and `methods` from `DBEntity`.
  - We used `HashSet` to store `ArticleBlock` type of instances, both `hashCode()` and `equals()` need to be `overridden`, [more details](#override-hashcode-equals-for-textblock)
 
