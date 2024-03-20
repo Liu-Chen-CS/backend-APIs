@@ -24,7 +24,7 @@
 
 
 ### Article Structure
-![articleBlock drawio](https://github.com/Liu-Chen-CS/backendChallenge-LiuChen/assets/158779475/277dadda-19c3-4091-8486-0726f461fd3f)
+![Snipaste_2024-03-03_11-48-47](https://github.com/Liu-Chen-CS/mapping-java/assets/158779475/bf6ba3a6-6355-472d-bbdd-0e7066cc6495)
 
  - As `Article` extends `DBEntity`, Article then inherits all `attributes` and `methods` from `DBEntity`.
  - We used `HashSet` to store `ArticleBlock` type of instances, both `hashCode()` and `equals()` need to be `overridden`, [more details](#override-hashcode-equals-for-textblock)
@@ -33,8 +33,7 @@
 - As `TextBlock`, `ImageBlock`, `GalleryBlock`, `VideoBlock` extends `ArticleBlock`, all these four instances then inherits `sortIndex` from `ArticleBlock`.
 - All these four instances became as a type of `ArticleBlock`, which forms `Polymorphism`, that's why we are able to add them to the `HashSet`.
 
-![Untitled Diagram drawio (2)](https://github.com/Liu-Chen-CS/backend-challenge/assets/158779475/8c606a13-0d4b-48fe-8f91-79041d7a9f5f)
-
+![articleBlock drawio](https://github.com/Liu-Chen-CS/backendChallenge-LiuChen/assets/158779475/4564674b-d5ba-48a5-9127-25787a360519)
 
 ### Articles to ArticleDtos Mapping Structure
 <img width="997" alt="Screen Shot 2024-03-03 at 14 08 04" src="https://github.com/Liu-Chen-CS/backend-challenge/assets/158779475/43678a47-f16b-4ab6-bf9f-0e12062fcb17">
