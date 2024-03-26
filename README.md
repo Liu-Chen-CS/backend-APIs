@@ -9,6 +9,9 @@
 - spring-boot-starter-parent
 - spring-boot-starter-web
 
+### Login page
+![Snipaste_2024-03-26_12-15-50](https://github.com/Liu-Chen-CS/backend-APIs/assets/158779475/5fe4fdac-721c-455f-9441-be437a4c37ef)
+
 ### Frontend to Backend Layers Interaction Mechanisms
  - To know
    - This project didn't use any databases, all dummy articles were created in `Repository` layer.
@@ -22,8 +25,7 @@
 
 ![MySQL drawio (1)](https://github.com/Liu-Chen-CS/backendChallenge-LiuChen/assets/158779475/f033bc78-9eaf-44ce-a7f4-24f8ba70859d)
 
-### Login feature
-![Snipaste_2024-03-26_12-15-50](https://github.com/Liu-Chen-CS/backend-APIs/assets/158779475/5fe4fdac-721c-455f-9441-be437a4c37ef)
+### Login Authentification
 ![login drawio](https://github.com/Liu-Chen-CS/backend-APIs/assets/158779475/9ccc74f6-356e-41ae-876e-e365b1710687)
 
 ### Article Structure
