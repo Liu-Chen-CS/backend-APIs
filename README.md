@@ -23,7 +23,8 @@
 
 ![Snipaste_2024-03-03_11-11-54](https://github.com/Liu-Chen-CS/mapping-java/assets/158779475/61ae2325-229b-4cc0-a461-fb39d7968082)
 
-![MySQL drawio (1)](https://github.com/Liu-Chen-CS/backendChallenge-LiuChen/assets/158779475/f033bc78-9eaf-44ce-a7f4-24f8ba70859d)
+![MySQL drawio](https://github.com/Liu-Chen-CS/backend-APIs/assets/158779475/1f99e37a-5acb-41dd-95ba-a97baa35f623)
+
 
 ### Login Authentification
 ![login drawio](https://github.com/Liu-Chen-CS/backend-APIs/assets/158779475/9ccc74f6-356e-41ae-876e-e365b1710687)
