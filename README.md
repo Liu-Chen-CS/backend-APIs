@@ -31,7 +31,7 @@
 #### Create - Update - Delete
 | Feature    | MySQL |
 |----------|----------|
-| Adding article    | adding data       |
+| Adding article    | Saving Article & ArticleData       |
 | Editing article   | Editing data       |
 | Deleting article  | Deleting data       |
 
