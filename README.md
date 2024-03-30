@@ -5,9 +5,10 @@
 - Maven 3.9
 - Spring Boot 3.2.2
 
-### Dependencies needed
+### Main Dependencies needed
 - spring-boot-starter-parent
 - spring-boot-starter-web
+- spring-boot-starter-data-jpa
 
 ### Login page
 ![Snipaste_2024-03-26_12-15-50](https://github.com/Liu-Chen-CS/backend-APIs/assets/158779475/5fe4fdac-721c-455f-9441-be437a4c37ef)
@@ -28,6 +29,9 @@
 
 ### Login Authentification
 ![login drawio](https://github.com/Liu-Chen-CS/backend-APIs/assets/158779475/9ccc74f6-356e-41ae-876e-e365b1710687)
+
+### How an Article looks like on Web
+![Article drawio](https://github.com/Liu-Chen-CS/backend-APIs/assets/158779475/b7eb54f4-9571-41f8-bd92-2b4b3b377522)
 
 ### Article Structure
 ![Snipaste_2024-03-03_11-48-47](https://github.com/Liu-Chen-CS/mapping-java/assets/158779475/bf6ba3a6-6355-472d-bbdd-0e7066cc6495)
