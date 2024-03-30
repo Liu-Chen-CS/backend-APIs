@@ -20,11 +20,27 @@
        - [more details](#how-to-store-list-of-articles-in-repository-layer)
     
 
-![javaWeb drawio (1)](https://github.com/Liu-Chen-CS/backendChallenge-LiuChen/assets/158779475/8a58e331-6644-4387-b424-83934e439d4b)
-
-![Snipaste_2024-03-03_11-11-54](https://github.com/Liu-Chen-CS/mapping-java/assets/158779475/61ae2325-229b-4cc0-a461-fb39d7968082)
-
 ![MySQL drawio](https://github.com/Liu-Chen-CS/backend-APIs/assets/158779475/1f99e37a-5acb-41dd-95ba-a97baa35f623)
+
+### Table Relationships in Database
+![Article drawio](https://github.com/Liu-Chen-CS/backend-APIs/assets/158779475/e72d0622-9283-411f-9ae5-93c1ecd4a9dd)
+
+
+
+### Available Features
+#### Create - Update - Delete
+| Feature    | MySQL |
+|----------|----------|
+| Adding article    | adding data       |
+| Editing article   | Editing data       |
+| Deleting article  | Deleting data       |
+
+#### Read
+| Feature    | MySQL |
+|----------|----------|
+| Reading article    | Reading data       |
+
+   
 
 
 ### Login Authentification
@@ -34,7 +50,7 @@
 ![Article drawio](https://github.com/Liu-Chen-CS/backend-APIs/assets/158779475/b7eb54f4-9571-41f8-bd92-2b4b3b377522)
 
 ### Article Structure
-![Snipaste_2024-03-03_11-48-47](https://github.com/Liu-Chen-CS/mapping-java/assets/158779475/bf6ba3a6-6355-472d-bbdd-0e7066cc6495)
+
 
  - As `Article` extends `DBEntity`, Article then inherits all `attributes` and `methods` from `DBEntity`.
  - We used `HashSet` to store `ArticleBlock` type of instances, both `hashCode()` and `equals()` need to be `overridden`, [more details](#override-hashcode-equals-for-textblock)
